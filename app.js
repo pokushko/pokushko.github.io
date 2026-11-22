@@ -18,7 +18,11 @@ const TRANSLATIONS = {
     arch_title: "Open-Source Resilience Architecture",
     arch_sub: "Modular Python runtimes and engineering taxonomies tested continuously via GitHub Actions (pytest & ruff).",
     repo_awesome:
-      "158 verified tools, benchmarks, papers, and real-world incidents plus a 10-mode Failure Taxonomy mapped to MAST and OWASP Agentic Top 10 (2026).",
+      "160 verified tools, benchmarks, papers, and real-world incidents plus a 10-mode Failure Taxonomy mapped to MAST, OWASP Agentic Top 10 (2026), and an executable F01–F10 Chaos Benchmark.",
+    repo_sci_guard:
+      "Neuro-symbolic manuscript linter enforcing cross-table numerical parity, CrossRef/OpenAlex DOI verification, escape sanitation, and LaTeX-to-Word OMML compilation.",
+    repo_causal_guard:
+      "Zero-dependency Python Pearl do-calculus DAG verifier (Bayes-Ball & Backdoor Criterion), Tabu memory archive, and Thesis-Antithesis-Judge multi-agent debate arbiter.",
     repo_bunker:
       "24/7 chaos engineering & resilience harness providing SQLite WAL journaling, RSS memory ceiling guards, and tri-state circuit breakers.",
     repo_orch:
@@ -74,7 +78,11 @@ const TRANSLATIONS = {
     arch_title: "Открытый стек отказоустойчивости",
     arch_sub: "Модульные Python-библиотеки и инженерные таксономии с непрерывным тестированием в GitHub Actions (pytest и ruff).",
     repo_awesome:
-      "158 проверенных инструментов, бенчмарков, статей и реальных инцидентов плюс матрица 10 отказов по стандартам MAST и OWASP Agentic Top 10 (2026).",
+      "160 проверенных инструментов, бенчмарков, статей и инцидентов плюс матрица 10 отказов MAST / OWASP Agentic Top 10 (2026) и исполняемый хаос-бенчмарк F01–F10.",
+    repo_sci_guard:
+      "Нейро-символьный линтер научных текстов: паритет чисел в таблицах, проверка DOI через CrossRef/OpenAlex и компиляция LaTeX в нативные формулы Word (OMML).",
+    repo_causal_guard:
+      "Python-ядро каузальной верификации по Перлу (do-исчисление, Bayes-Ball, бэкдор-критерий), Табу-память и мультиагентный арбитр дебатов без внешних зависимостей.",
     repo_bunker:
       "24/7 хаос-харнесс и защитный контур для автономных агентов: WAL-журнал SQLite, контроль RSS-памяти и трёхфазные автоматические выключатели.",
     repo_orch:
